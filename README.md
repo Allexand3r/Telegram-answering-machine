@@ -18,7 +18,7 @@ This is a Telegram bot built with Telethon that automatically responds to the fi
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/telegram-auto-responder.git
+    https://github.com/Allexand3r/Telegram-answering-machine.git
     cd telegram-auto-responder
     ```
 
