@@ -26,7 +26,7 @@ This is a Telegram bot built with Telethon that automatically responds to the fi
 
     ```sh
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    call venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
 3. Install the required libraries:
